@@ -12,7 +12,7 @@
   "author": "Asliddin Azizovich",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^9.4.0",
+    "electron": "^15.5.5",
     "electron-packager": "^15.0.0"
   }
 }
